@@ -55,12 +55,12 @@
       "value": "",
       "required": false
     },
-    "PRIVATE_GROUP_BOT_API_ID": {
+    "PRIVATE_GROUP_ID": {
       "description": "its for pm permit create group get group id . id must start with -100",
       "value": "",
       "required": false
     },
-    "PRIVATE_CHANNEL_BOT_API_ID": {
+    "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Same as abouve ",
       "value": "",
       "required": false
@@ -72,7 +72,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "if you need custom deploy then type your git repo link. ie old or new",
-      "value": "old",
+      "value": "TamilBotNew",
       "required": false
     }
   },
